@@ -1,4 +1,4 @@
-name: "Podcast generator"
+name: "Podcast generator github actions course"
 author: "Abdolrahman Farshgar"
 description: "Generates a feed for a podcast from a YAML file"
 runs: 
